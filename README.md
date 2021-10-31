@@ -1,2 +1,2 @@
-# rotas-cajuru
-Sistema de rotas utilizando uma base de dados das ruas do bairo Cajuru de Curitiba. Feito com base na estrutura de dados do tipo grafo
+# Projeto de Rotas usando Grafos
+Sistema de rotas utilizando pontos de parques e ciclovias do bairro Cajuru de Curitiba-PR. O sistema é feito com base em uma base de dados de ruas e pontos, que são processadas com base na teoria de grafos.
